@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm interested in learning how to fluently use Github to help with coding this semester! :computer:
+Outside of school, I'm working on my 3D printing skills with my new printer :printer:
+My favorite hobbies include rock climbing :climbing: and frisbee golf :golf:
+
 <!--
 **cagroff/cagroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
