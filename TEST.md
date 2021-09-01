@@ -2,7 +2,7 @@ This is a **TEST** file.
 
 Favorite study quote:
 
-> Life's hard. It's harder
+> Life is hard. It's even harder
 > when you're stupid.
 
 -John Wayne
